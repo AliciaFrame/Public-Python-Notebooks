@@ -17,5 +17,5 @@ Some of the packages I'm using don't always play nicely with other dependencies,
 
 ```
 conda env create -f neo4j_environment.yml
-conda activate neo4j_environment
+conda activate neo4j
 ```
