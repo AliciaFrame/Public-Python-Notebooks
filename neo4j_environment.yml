@@ -101,5 +101,5 @@ dependencies:
     - numba==0.43.1
     - pybind11==2.2.4
     - pynndescent==0.2.1
-prefix: /Users/aliciaframe/anaconda3/envs/neo4j
+
 
